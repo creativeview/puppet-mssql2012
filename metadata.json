@@ -1,0 +1,32 @@
+{
+  "author": "David Balharrie",
+  "checksums": {
+    "manifests\\init.pp": "93c6611c948fa5968e55660a411522c5",
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "templates\\config.ini.erb": "95148d38eda9dadf8633811772145f0f",
+    "spec\\spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "tests\\init.pp": "08eb9e38b14caaafe3cd804f8dabdbd7",
+    "manifests\\params.pp": "3e937a22311c6f1bac61541d4b394ef2",
+    "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "Modulefile": "3e3c20d708a791e08462fdcc938f2cfe",
+    "README.markdown": "cf360116d1bcb49e6ca1e2b3fffe89c1"
+  },
+  "dependencies": [
+    {
+      "name": "puppetlabs/dism",
+      "version_requirement": "\u003e\u003d 0.1.0"
+    },
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "\u003e\u003d 3.1.0"
+    }
+  ],
+  "description": "Microsoft SQL Server 2012 Installation Module for Puppet",
+  "license": "Apache License 2.0",
+  "name": "creativeview-mssql2012",
+  "project_page": "https://github.com/creativeview/puppet-mssql2012",
+  "source": "",
+  "summary": "Microsoft SQL Server 2012 Module for Puppet",
+  "types": [],
+  "version": "0.1.2"
+}
