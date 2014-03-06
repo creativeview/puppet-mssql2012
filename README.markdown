@@ -5,7 +5,7 @@ This module installs Microsoft SQL Server 2012. It is based on the [Puppetlabs M
 ## Installation
 
 ```bash
-puppet module install puppetlabs-mssql
+puppet module install creativeview-mssql2012
 ```
 This module depends on DISM module to enable .net 3.5 on Windows Server:
 
