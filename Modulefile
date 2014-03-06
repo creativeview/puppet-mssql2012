@@ -1,5 +1,5 @@
 name    'creativeview-mssql2012'
-version '0.1.2'
+version '0.1.3'
 source ''
 author 'David Balharrie'
 license 'Apache License 2.0'

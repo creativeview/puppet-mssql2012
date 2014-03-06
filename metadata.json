@@ -8,8 +8,8 @@
     "tests\\init.pp": "08eb9e38b14caaafe3cd804f8dabdbd7",
     "manifests\\params.pp": "3e937a22311c6f1bac61541d4b394ef2",
     "spec\\spec.opts": "a600ded995d948e393fbe2320ba8e51c",
-    "Modulefile": "3e3c20d708a791e08462fdcc938f2cfe",
-    "README.markdown": "cf360116d1bcb49e6ca1e2b3fffe89c1"
+    "Modulefile": "c72ede4eaf472014e5da255ef1cd5928",
+    "README.markdown": "d708f31fd64e0d3d09ba6e8b4beba1d8"
   },
   "dependencies": [
     {
@@ -28,5 +28,5 @@
   "source": "",
   "summary": "Microsoft SQL Server 2012 Module for Puppet",
   "types": [],
-  "version": "0.1.2"
+  "version": "0.1.3"
 }
